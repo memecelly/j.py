@@ -1,0 +1,4 @@
+2025-04-17 11:30:14,932 - INFO - Fetched job listing page successfully.
+2025-04-17 11:30:15,010 - INFO - Data saved to scraped_data.csv
+2025-04-17 11:35:14,112 [INFO] Started scraping job listings.
+2025-04-17 11:35:15,184 [INFO] Scraped data saved to scraped_data.csv
